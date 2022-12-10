@@ -1,0 +1,10 @@
+
+.login-form input {
+    width: 30%;
+}
+
+.container button {
+    margin-top: 30px;
+    margin: 20px;
+    align-items: center;
+}
