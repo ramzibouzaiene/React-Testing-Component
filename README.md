@@ -1,4 +1,5 @@
-I Created a login component form and i wrote unit testing using React testing library for testing React components and Jest as test runner.
+I Created a login component form and i wrote unit tests for it using React testing library for testing React components and Jest as test runner.
+
 
 # Getting Started with Create React App
 
